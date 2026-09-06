@@ -3,7 +3,7 @@ export function Topbar() {
     <header className="border-b border-border bg-card">
       <div className="mx-auto flex w-full max-w-3xl items-center px-4 py-3 sm:px-6">
         <p className="text-sm font-medium text-muted-foreground">
-          {"Creates by "}
+          {"Imagined By "}
           <a
             href="https://linkedin.com/in/amarmohanty"
             target="_blank"
